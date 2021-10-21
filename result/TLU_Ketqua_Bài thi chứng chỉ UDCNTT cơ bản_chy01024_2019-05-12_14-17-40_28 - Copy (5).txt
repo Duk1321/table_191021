@@ -1,0 +1,159 @@
+Quiz Name: Bài thi chứng chỉ UDCNTT cơ bản
+Name: Loan, Do Thi
+Email: 
+Result: Passed
+User Score: 28 / 30 (93%)
+Passing Score: 15 (50%)
+Quiz Taking Time: 26 phút 51 giây
+Quiz Finished At: 12 tháng 5, 2019 14:17
+
+Một trang chiếu tiêu đề (Title slide) thường chứa những thông tin gì? (chọn 2):
+Awarded Points: 1
+Correct Response: Tiêu đề hoặc chủ đề của bài thuyết trình; Tên người thuyết trình, tên tổ chức hoặc địa điểm và vị trí
+User Response: Tiêu đề hoặc chủ đề của bài thuyết trình; Tên người thuyết trình, tên tổ chức hoặc địa điểm và vị trí
+
+Để tìm kiếm một tệp tin, thư mục trên Windows Explorer bạn nhập từ khóa tìm kiếm vào vị trí nào trong hình dưới đây:
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào vùng soạn tiêu đề thư trong hình dưới đây.
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+Hãy nháy chuột vào vùng cho phép tìm kiếm trong hộp thư điện tử của bạn.
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+WWW là viết tắt của cụm từ nào?
+Awarded Points: 1
+Correct Response: World Wide Web
+User Response: World Wide Web
+
+Hãy nối hình ảnh nút điều khiển trên cửa sổ Windows Exploer và chức năng tương ứng của nó:
+Awarded Points: 1
+Correct Response:  - Tạm thời đóng cửa sổ, thay vì ấn vào biểu tượng cửa sổ đó trên thanh tác vụ;  - Hiển thị cửa sổ ra toàn màn hinh;  - Khôi phục lại cửa sổ bằng kích cỡ trước khi nó được phóng to ra;  - Đóng cửa sổ
+User Response:  - Tạm thời đóng cửa sổ, thay vì ấn vào biểu tượng cửa sổ đó trên thanh tác vụ;  - Hiển thị cửa sổ ra toàn màn hinh;  - Khôi phục lại cửa sổ bằng kích cỡ trước khi nó được phóng to ra;  - Đóng cửa sổ
+
+Đánh dấu vào lệnh chèn tiêu đề đầu trang trên thẻ Insert.
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+Lựa chọn nào sau đây để thay đổi bố cục một trang chiếu? (chọn 2)
+Awarded Points: 1
+Correct Response: Trên thẻ Home, trong nhóm Slides, chọn nút lệnh Layout; Nháy chuột phải vào trang chiếu trong thẻ Slides hoặc trong khung Slide và sau đó chọn nút lệnh Layout
+User Response: Trên thẻ Home, trong nhóm Slides, chọn nút lệnh Layout; Nháy chuột phải vào trang chiếu trong thẻ Slides hoặc trong khung Slide và sau đó chọn nút lệnh Layout
+
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Awarded Points: 1
+Correct Response: Thiết bị trung tâm; Thiết bị ngoại vi
+User Response: Thiết bị trung tâm; Thiết bị ngoại vi
+
+Hãy nháy chuột vào tùy chọn cho phép in sao 5 bản.
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí.
+Awarded Points: 1
+Correct Response: Thuyết trình
+User Response: Thuyết trình
+
+Hãy sắp xếp các bước để thực hiện khởi động phần mềm trình chiếu Microsoft Powerpoint 2010?
+Awarded Points: 1
+Correct Response: 1. Chọn Start; 2. Chọn All Programs; 3. Chọn Microsoft Office; 4. Chọn Microsoft Powerpoint 2010
+User Response: 1. Chọn Start; 2. Chọn All Programs; 3. Chọn Microsoft Office; 4. Chọn Microsoft Powerpoint 2010
+
+Trong hệ điều hành Windows, muốn bộ gõ tiếng Việt Unikey luôn khởi động cùng hệ điều hành, ta chọn mục nào?
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+Những thiết bị nào sau đây là thiết bị xuất thông tin ra của máy tính? (Chọn 4)
+Awarded Points: 1
+Correct Response: Màn hình; Màn hình cảm ứng; Máy in; Loa
+User Response: Màn hình; Màn hình cảm ứng; Máy in; Loa
+
+Hãy nối tên hàm với chức năng của nó:
+Awarded Points: 1
+Correct Response: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+User Response: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+
+Trên thẻ Picture Tools/ Format, trong nhóm Arrange, nút lệnh nào dùng để xoay ảnh đang được chọn?
+Awarded Points: 1
+Correct Response: Rotate
+User Response: Rotate
+
+Phím tắt nào sau đây cho phép bạn đưa con trỏ về đầu dòng hiện hành?
+Awarded Points: 0
+Correct Response: Home
+User Response: Ctrl + Home
+
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Awarded Points: 1
+Correct Response: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+User Response: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Awarded Points: 1
+Correct Response: F5
+User Response: F5
+
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Awarded Points: 1
+Correct Response: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+User Response: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+
+Hãy nối các biểu tượng sau với kiểu biểu đồ tương ứng:
+Awarded Points: 1
+Correct Response:  - Biểu đồ cột;  - Biểu đồ đường;  - Biểu đồ tròn;  - Biểu đồ thanh (cột nằm);  - Biểu đồ vùng
+User Response:  - Biểu đồ cột;  - Biểu đồ đường;  - Biểu đồ tròn;  - Biểu đồ thanh (cột nằm);  - Biểu đồ vùng
+
+Sắp xếp các bước sau đây theo thứ tự đúng để chuyển đoạn văn bản từ chữ thường sang chữ in hoa nhờ tính năng của Unikey.
+Awarded Points: 1
+Correct Response: 1. Chọn đoạn văn bản cần chuyển đổi, chọn Copy.; 2. Nháy chuột phải vào biểu tượng Unikey/Chọn dòng Công cụ.; 3. Trong mục bảng mã: Chọn mã nguồn mã đích giống bảng mã đang sử dụng.; 4. Nháy chuột chọn mục Sang chữ hoa/Chuyển mã.; 5. Đặt con trỏ ở vị trí mới, chọn Paste.
+User Response: 1. Chọn đoạn văn bản cần chuyển đổi, chọn Copy.; 2. Nháy chuột phải vào biểu tượng Unikey/Chọn dòng Công cụ.; 3. Trong mục bảng mã: Chọn mã nguồn mã đích giống bảng mã đang sử dụng.; 4. Nháy chuột chọn mục Sang chữ hoa/Chuyển mã.; 5. Đặt con trỏ ở vị trí mới, chọn Paste.
+
+Việc nén tệp tin, thư mục có ý nghĩa gì?(Chọn 3)
+Awarded Points: 1
+Correct Response: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+User Response: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+
+Hãy nháy chuột vào nút lệnh để chuyển định dạng trang tính sẽ in theo hướng dọc sang theo hướng ngang và ngược lại:
+Awarded Points: 1
+Correct Response: Rectangle 1
+User Response: Rectangle 1
+
+Hàm nào sau đây được sử dụng để tìm số lớn nhất trong một dãy số?
+Awarded Points: 0
+Correct Response: =MAX(B1:B5)
+User Response: =MAXIMUM(B1:B5)
+
+Cách nào dùng để xóa  những nội dung được  lặp lại như nhau ở các phần đầu trang (Header) hoặc chân trang (Footer) văn bản?(Chọn 3)
+Awarded Points: 1
+Correct Response: Xóa đầu trang hoặc chân trang ở ngay trang đầu tiên; Xóa đầu trang hoặc chân trang ở trang cuối cùng.; Xóa đầu trang hoặc chân trang ở một trang bất kỳ.
+User Response: Xóa đầu trang hoặc chân trang ở ngay trang đầu tiên; Xóa đầu trang hoặc chân trang ở trang cuối cùng.; Xóa đầu trang hoặc chân trang ở một trang bất kỳ.
+
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Awarded Points: 1
+Correct Response: Thương mại điện tử
+User Response: Thương mại điện tử
+
+Để nhúng các đối tượng phi văn bản vào văn bản, sử dụng thẻ nào trong các thẻ sau?
+Awarded Points: 1
+Correct Response: Insert
+User Response: Insert
+
+Hãy nối khái niệm một số ứng dụng Công nghệ thông tin và Truyền thông với đặc điểm nhận dạng chính của nó
+Awarded Points: 1
+Correct Response: Thương mại điện tử - Việc mua bán, quảng bá các sản phẩm, dịch vụ thông qua Internet; Làm việc từ xa - Một hình  thức tổ chức cho nhân viên làm việc tại nhà hoặc  địa điểm khác mà không phải tới chỗ làm tập trung; Hội nghị từ xa - Một cuộc họp điện thoại giữa hai hay nhiều thành viên liên quan sử dụng các công nghệ phức tạp hơn so với kết nối điện thoại hai chiều, chẳng hạn như hội nghị truyền hình; Ngân hàng điện tử - Việc sử dụng các dịch vụ của ngân hàng thông qua website do ngân hàng cung cấp mà không phải tới trực tiếp các địa điểm chi nhánh của ngân hàng
+User Response: Thương mại điện tử - Việc mua bán, quảng bá các sản phẩm, dịch vụ thông qua Internet; Làm việc từ xa - Một hình  thức tổ chức cho nhân viên làm việc tại nhà hoặc  địa điểm khác mà không phải tới chỗ làm tập trung; Hội nghị từ xa - Một cuộc họp điện thoại giữa hai hay nhiều thành viên liên quan sử dụng các công nghệ phức tạp hơn so với kết nối điện thoại hai chiều, chẳng hạn như hội nghị truyền hình; Ngân hàng điện tử - Việc sử dụng các dịch vụ của ngân hàng thông qua website do ngân hàng cung cấp mà không phải tới trực tiếp các địa điểm chi nhánh của ngân hàng
+
+World Wide Web là gì?
+Awarded Points: 1
+Correct Response: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+User Response: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+
